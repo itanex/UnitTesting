@@ -1,0 +1,9 @@
+# Compile/Transpile Artifacts
+[Bb]in
+[Oo]bj
+[Tt]est[Rr]esults
+
+# User Specific Files
+.vs
+*.user
+*.suo
